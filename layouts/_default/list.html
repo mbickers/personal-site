@@ -1,9 +1,18 @@
+{{ define "head" }}
+    <link rel="stylesheet" type="text/css" href="/styles/layout.css">
+{{ end }}
 {{ define "main" }}
-    <h1>Posts</h1>
-    {{ range .Pages }}
-        <article>
-             <h2>{{ .Title }}</h2>
-            {{ .Content }}
-        </article>
-    {{ end }}
+    {{ partial "header.html" }}
+
+    <section id="content">
+        <h1>{{ .Title }}</h1>
+
+        {{ .Content }}
+
+        <ul>
+            {{ range .Pages }}
+            <li>{{ .Title }}</li>
+            {{ end }}
+        </ul>
+    </section>
 {{ end }}
