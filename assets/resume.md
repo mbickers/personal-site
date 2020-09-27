@@ -31,17 +31,21 @@ November 2019 &ndash; May 2020
 - iOS app to keep track of daily tasks
 - Prototyped with Adobe XD
 - Written in Swift with SwiftUI and UIKit
+
 [github](https://github.com/mbickers/tallybook)
 
 **Personal Website**<br>
 June 2020 &ndash; Ongoing
 - Created responsive website to showcase my projects and experience
 - Developed script to create formatted resume from website content
+
 [github](https://github.com/mbickers/personal-website)
 
 ## Skills and Interests
 **Languages:** Python, C++, Swift, Objective-C
+
 **Technologies:** Git, LaTeX, HTML5
+
 **Platforms:** iOS, macOS, Linux
 
 I love reading, and I just started publishing book reviews.
