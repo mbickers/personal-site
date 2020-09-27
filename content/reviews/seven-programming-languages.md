@@ -1,9 +1,8 @@
 ---
 title: "Seven Programming Languages"
-book-title: "Seven Programming Languages"
-book-author: Book Author
-book-publisher: Book Publisher
-book-categories: Category
+BookTitle: "Seven Programming Languages in Seven Weeks"
+BookAuthor: Bruce Tate
+BookPublisher: Book Publisher
 date: 2020-09-26T22:30:55-04:00
 ---
 

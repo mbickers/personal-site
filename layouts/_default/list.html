@@ -11,7 +11,7 @@
 
         <ul>
             {{ range .Pages }}
-            <li>{{ .Title }}</li>
+            <li><a href="{{ .RelPermalink }}">{{ .Params.BookTitle }}</a> by {{ .Params.BookAuthor }}</li>
             {{ end }}
         </ul>
     </section>

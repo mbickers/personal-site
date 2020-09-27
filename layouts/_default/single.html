@@ -1,8 +1,12 @@
-{{ define "title" }}
-  <!-- This will override the default value set in baseof.html; i.e., "{{.Site.Title}}" in the original example-->
-    {{ .Title }} &ndash; {{ .Site.Title }}
+{{ define "head" }}
+    <link rel="stylesheet" type="text/css" href="/styles/layout.css">
 {{ end }}
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
+    {{ partial "header.html" }}
+
+    <section id="content">
+        <h1>{{ .Title }}</h1>
+
+        {{ .Content }}
+    </section>
 {{ end }}

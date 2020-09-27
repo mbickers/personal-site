@@ -1,9 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-book-title: "{{ replace .Name "-" " " | title }}"
-book-author: Book Author
-book-publisher: Book Publisher
-book-categories: Category
+BookTitle: "{{ replace .Name "-" " " | title }}"
+BookAuthor: Book Author
+BookPublisher: Book Publisher
 date: {{ .Date }}
 ---
 

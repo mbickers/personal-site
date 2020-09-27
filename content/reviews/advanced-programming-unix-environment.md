@@ -1,7 +1,9 @@
 ---
 title: "Advanced Programming in the Unix Environment"
+BookTitle: "Advanced Programming in the Unix Environment"
+BookAuthor: "W. Richard Stevens and Stephen A. Rago"
+BookPublisher: Book Publisher
 date: 2020-09-26T21:05:17-04:00
-draft: false
 ---
 
 In *Advanced Programming in the Unix Environment* (referred to as APUE in the text), authors Stevens and Rago explore different aspects of the Unix standard.
