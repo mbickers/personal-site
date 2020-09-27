@@ -1,0 +1,130 @@
+{{ define "head" }}
+<link rel="stylesheet" type="text/css" href="/styles/index.css">
+<link rel="stylesheet" type="text/css" href="/styles/index-responsive.css">
+{{ end }}
+
+{{ define "main" }}
+{{ partial "index-header.html" }}
+
+<section id="welcome">
+    <h2>Hi. I'm Max.</h2>
+    <p>
+    I'm a second year student at the University of Michigan studying computer science and math.
+    I'm interested in high performance computing, computer architecture and cryptography.
+    </p>
+    <p>
+    Check out my <a href="/reviews.html">book reviews</a>.
+    </p>
+</section>
+
+<div class="section-flex-grid">
+    <section class="section-flex-item">
+        <h2>Experience</h2>
+        <hr>
+        <p>
+        <strong>Apple: Software Engineering Intern (Embedded Field Diagnostics)</strong>
+        <br>
+        Summer 2020
+        </p>
+        <ul>
+            <li>Developed iOS app to configure and run internal device diagnostic programs</li>
+            <li>Implemented new features to improve single and multi-device workflows</li>
+            <li>Utilized Git and internal issue tracking software. Wrote user and maintenance documentation with Confluence</li>
+        </ul>
+
+        <p>
+        <strong>Avli Restaurant: Concessions Cashier</strong>
+        <br>
+        Summer 2019
+        </p>
+        <ul>
+            <li>Handled setting the schedule, tracking hours, stocking food and opening/closing</li>
+            <li>Assisted customers by cashiering and preparing food</li>
+        </ul>
+    </section>
+
+    <section class="section-flex-item">
+        <h2>Education</h2>
+        <hr>
+        <p>
+        <strong>University of Michigan</strong>
+        <br>
+        BSE Computer Science, Mathematics Minor
+        </p>
+        <ul>
+            <li>Estimated Graduation Date: April 2022</li>
+            <li>GPA: 3.92</li>
+            <li>Coursework: Data Structures and Algorithms, Foundations of Computer Science, Introduction to Computer Organization, Introduction to Machine Learning, Introduction to Probability, Linear Algebra</li>
+        </ul>
+
+        <p>
+        <strong>Coursera</strong>
+        </p>
+        <ul>
+            <li>From the Big Bang to Dark Energy, University of Tokyo</li>
+            <li>Medical Neuroscience, Duke University</li>
+            <li>Machine Learning, Stanford</li>
+        </ul>
+
+        <p>
+        <strong>New Trier High School</strong>
+        </p>
+        <ul>
+            <li>National Merit Scholar</li>
+        </ul>
+    </section>
+
+    <section class="section-flex-item">
+        <h2>Projects</h2>
+        <hr>
+
+        <div>
+            <p>
+            <strong>Tallybook</strong>
+            <br>
+            November 2019 &ndash; May 2020
+            </p>
+            <ul>
+                <li>iOS app to keep track of daily tasks</li>
+                <li>Prototyped with Adobe XD</li>
+                <li>Written in Swift with SwiftUI and UIKit</li>
+            </ul>
+            <p class="project-links">
+            <a href="https://github.com/mbickers/tallybook">github</a>
+            </p>
+        </div>
+
+        <div>
+            <p>
+            <strong>Personal Website</strong>
+            <br>
+            June 2020 &ndash; Ongoing
+            </p>
+            <ul>
+                <li>Created responsive website to showcase my projects and experience</li>
+                <li>Developed script to create formatted resume from website content</li>
+            </ul>
+            <p class="project-links">
+            <a href="https://github.com/mbickers/personal-website">github</a>
+            </p>
+        </div>
+    </section>
+
+    <section class="section-flex-item">
+        <h2>Skills and Interests</h2>
+        <hr>
+        <p>
+        <strong>Languages: </strong>Python, C++, Swift, <span class="no-break">Objective-C</span>
+        </p>
+        <p>
+        <strong>Technologies: </strong>Git, LaTeX, HTML5
+        </p>
+        <p>
+        <strong>Platforms: </strong>iOS, macOS, Linux
+        </p>
+        <p>
+        I love reading, and I just started publishing <a href="/reviews.html">book reviews</a>.
+        </p>
+    </section>
+</div>
+{{ end }}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>{{ if .Title }}{{ .Title }} | {{ end }}bickers.dev</title>
+
+        <link rel="stylesheet" type="text/css" href="/styles/style.css">
+        <script src="scripts/background.js"></script>
+
+        {{ block "head" . }}
+        {{ end }}
+    </head>
+    <body>
+        <canvas id="background-canvas"></canvas>
+
+        <div id="wrapper">
+            {{ block "main" . }}
+            {{ end }}
+        </div>
+    </body>
+</html>
