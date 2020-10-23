@@ -7,8 +7,11 @@
     <section id="content">
         <h1>{{ .Title }}</h1>
 
-        {{ block "metadata" . }}
-        {{ end }}
+        <p>Book by {{ .Params.BookAuthor }}<br>
+        Review by Max Bickers.<br>
+        Published {{ .Date.Format "1 January 2006" }}.
+        </p>
+
 
         {{ .Content }}
     </section>
