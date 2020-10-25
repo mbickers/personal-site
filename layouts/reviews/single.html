@@ -5,13 +5,9 @@
     {{ partial "header.html" }}
 
     <section id="content">
-        <h1>{{ .Title }}</h1>
+        <h1>{{ .Title }} by {{ .Params.BookAuthor }}</h1>
 
-        <p>Book by {{ .Params.BookAuthor }}<br>
-        Review by Max Bickers.<br>
-        Published {{ .Date.Format "1 January 2006" }}.
-        </p>
-
+        <p>Review by Max Bickers, published {{ .Date.Format "1 January 2006" }}.</p>
 
         {{ .Content }}
     </section>
