@@ -7,7 +7,7 @@ date: 2020-09-26T21:05:17-04:00
 ---
 
 In *Advanced Programming in the Unix Environment* (referred to as APUE in the text), authors Stevens and Rago explore different aspects of the Unix standard.
-I liked this classic because it struck a balance between programming reference and exposition/explanation.
+I enjoyed this classic because it struck a balance between programming reference and exposition/explanation.
 I read APUE because I wanted to build a foundational understanding of the concepts I needed to know for operating system programming, and the book was a huge success from that perspective.
 APUE did a great job of introducing and discussing the vast set of resources defined in the Unix standard, and I feel like it gave me a great starting point for more learning-for future projects, I'd have a basic understanding of what's going on, and I'd know what to google when things aren't going right.
 At the same time, though, I'd want to use APUE as a reference book, because of its precise definitions and great examples.
