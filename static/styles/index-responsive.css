@@ -46,3 +46,7 @@
 #welcome p {
     animation: appear ease 2s 0.5s both;
 }
+
+#solid-background {
+    background-color: transparent;
+}

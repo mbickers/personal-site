@@ -3,9 +3,11 @@
 }
 
 #wrapper {
-    background-color: white;
-    min-height: 80vh;
+    margin: 0 auto;
+    padding: 1em;
+}
 
-    margin: 1em auto;
-    padding-bottom: 3em;
+#solid-background {
+    padding-bottom: 1em;
+    background-color: white;
 }
