@@ -1,14 +1,3 @@
-section {
-    margin: 1.4em;
-    margin-bottom: 4em;
-    padding-left: 1.5em;
-    padding-right: 1.5em;
-}
-
-.header-flex-item {
-    margin-right: .35em;
-}
-
 .project-links {
     margin-top: 0;
 }
@@ -38,6 +27,43 @@ ul {
     min-width: 40%;
 }
 
-#header-float {
-    float: right;
+#welcome {
+    margin-top: 13vh;
+    margin-bottom: 13vh;
+}
+
+#solid-background {
+    background-color: transparent;
+}
+
+/* Responsive Layout */
+@media screen and (min-width: 800px) {
+    #welcome {
+        width: 40%;
+    }
+
+    .section-flex-grid {
+        display: flex;
+    }
+}
+
+/* Animation */
+@keyframes appear {
+    from {
+        opacity: 0;
+        transform: translateY(7vh) scale(0.9);
+    }
+
+    to {
+        opacity 1;
+        transform: translateY(0px) scale(1);
+    }
+}
+
+#welcome h2 {
+    animation: appear ease 2.5s;
+}
+
+#welcome p {
+    animation: appear ease 2s 0.5s both;
 }

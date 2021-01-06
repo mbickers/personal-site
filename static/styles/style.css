@@ -20,8 +20,14 @@ body {
     z-index: 1;
 
     max-width: 1024px;
-    margin: auto;
-    margin-bottom: 6em;
+
+    margin: 0 auto;
+    padding: 1em;
+}
+
+#solid-background {
+    padding-bottom: 1em;
+    background-color: white;
 }
 
 /* Header/Sections */
@@ -53,6 +59,10 @@ h1, h2, .header-flex-item {
     font-size: 1.4em;
     line-height: 1.7;
     font-family: 'Nunito Sans', sans-serif;
+}
+
+.header-flex-item {
+    margin-right: .35em;
 }
 
 h1 a, .header-flex-item, #header-float {
