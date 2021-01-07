@@ -18,7 +18,7 @@ ul {
     flex-wrap: wrap;
 }
 
-.section-flex-item {
+.section-flex-grid section {
     display: block;
 
     flex: 1;
@@ -44,6 +44,10 @@ ul {
 
     .section-flex-grid {
         display: flex;
+    }
+
+    .section-flex-item1, .section-flex-item3 {
+        margin-right: 5.5em;
     }
 }
 
