@@ -1,15 +1,5 @@
-.project-links {
-    margin-top: 0;
-}
-
-#welcome p {
-    margin-top: 0;
-    display: block;
-}
-
-ul {
-    margin-top: -1em;
-    margin-bottom: 0;
+#solid-background {
+    background-color: transparent;
 }
 
 .section-flex-grid {
@@ -32,8 +22,17 @@ ul {
     margin-bottom: 13vh;
 }
 
-#solid-background {
-    background-color: transparent;
+#welcome p {
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+}
+
+p + ul {
+    margin-top: -1em;
+}
+
+.link-row {
+    margin-top: -1em;
 }
 
 /* Responsive Layout */

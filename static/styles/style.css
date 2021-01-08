@@ -65,6 +65,10 @@ h1 a, .header-flex-item, #header-float {
 }
 
 /* Text */
+.link-row a {
+    margin-right: .3em;
+}
+
 p, li {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
