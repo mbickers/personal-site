@@ -38,7 +38,7 @@ p + ul {
 /* Responsive Layout */
 @media screen and (min-width: 800px) {
     #welcome {
-        width: 40%;
+        width: 50%;
     }
 
     .section-flex-grid {
