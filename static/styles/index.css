@@ -2,13 +2,13 @@
     background-color: transparent;
 }
 
-.section-flex-grid {
+#section-flex-grid {
     display: block;
 
     flex-wrap: wrap;
 }
 
-.section-flex-grid section {
+#section-flex-grid div {
     display: block;
 
     flex: 1;
@@ -31,7 +31,7 @@ p + ul {
     margin-top: -1em;
 }
 
-.link-row {
+#projects .link-row {
     margin-top: -1em;
 }
 
@@ -41,11 +41,11 @@ p + ul {
         width: 50%;
     }
 
-    .section-flex-grid {
+    #section-flex-grid {
         display: flex;
     }
 
-    .section-flex-item1, .section-flex-item3 {
+    #experience, #projects {
         margin-right: 5em;
     }
 }

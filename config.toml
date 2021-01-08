@@ -1,3 +1,8 @@
 baseURL = "https://bickers.dev/"
 languageCode = "en-us"
 title = "Max Bickers"
+
+[markup.goldmark.renderer]
+unsafe = true
+[markup.goldmark.parser]
+autoheadingID = false

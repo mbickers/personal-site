@@ -32,7 +32,7 @@ body {
 }
 
 /* Header/Sections */
-header, section {
+header, .section-flex-grid div {
     margin-bottom: 3em;
 }
 
@@ -52,7 +52,7 @@ h1, h2 {
     margin: 0;
 }
 
-.link-row a {
+.link-row p a {
     margin-right: 0.15em;
 }
 
@@ -85,7 +85,7 @@ p, li {
 a {
     color: black;
     text-decoration: none;
-    
+
     background: linear-gradient(to right, #8360c3, #2ebf91);
     background-position: 0% 100%;
     background-repeat: no-repeat;
