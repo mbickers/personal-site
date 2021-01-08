@@ -35,9 +35,7 @@ Embedded Field Diagnostics Team
 BSE Computer Science, Mathematics Minor
 - Estimated Graduation Date: April 2022
 - GPA: 3.95
-- Coursework: Data Structures and Algorithms, Foundations of Computer Science, Introduction to Computer Organization, Introduction to Machine Learning, Software Engineering, Introduction to Operating Systems, Introduction to Probability, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.<br>
-If it matches, I've taken it:
-`/EECS (2(03|8[01])|37[06]|4(45|8[12]))|Math (2(1[67]|97)|425)|Stats 426/gi`
+- Advanced Coursework: Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.<br>
 
 **Coursera**
 - From the Big Bang to Dark Energy, University of Tokyo
@@ -52,8 +50,10 @@ If it matches, I've taken it:
 ## Projects
 ***
 **Clippy**<br>
-December 2020 &ndash; Ongoing
-- Placeholder
+December 2020 &ndash; Ongoing<br>
+Clippy is a tool for transferring files between computers by temporarily storing them online.
+- Collaborated with a friend to build a server, client library and command line interface in Go
+- Worked on features including rate-limiting, directory upload and mnemomic creator
 
 {{% linkrow %}}
 [github](https://github.com/evanweissburg/clippy)
@@ -61,8 +61,8 @@ December 2020 &ndash; Ongoing
 
 **Personal Website**<br>
 June 2020 &ndash; Ongoing
-- Created responsive website to showcase my projects and experience
-- Developed script to create formatted resume from website content
+- Created responsive website to showcase my resume and book reviews
+- Built front-end from scratch, site is statically compiled with Hugo
 
 {{% linkrow %}}
 [github](https://github.com/mbickers/personal-site)
