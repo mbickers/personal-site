@@ -1,9 +1,4 @@
-{{ define "head" }}
-{{ end }}
 {{ define "main" }}
-    {{ partial "header.html" }}
-
-    <section id="content">
         <h1>{{ .Title }}</h1>
 
         {{ .Content }}
@@ -13,5 +8,4 @@
             <li><a href="{{ .RelPermalink }}">{{ .Params.BookTitle }}</a> by {{ .Params.BookAuthor }}</li>
             {{ end }}
         </ul>
-    </section>
 {{ end }}
