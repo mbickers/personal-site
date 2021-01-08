@@ -1,21 +1,22 @@
 ## Experience
-**Apple: Software Engineering Intern (Embedded Field Diagnostics)**<br>
-Summer 2020
+**Stripe: Software Engineering Intern**<br>
+Summer 2021
+
+**Apple: Software Engineering Intern**<br>
+Summer 2020<br>
+Embedded Field Diagnostics Team
 - Developed iOS app to configure and run internal device diagnostic programs
 - Implemented new features to improve single and multi-device workflows
 - Utilized Git and internal issue tracking software. Wrote user and maintenance documentation with Confluence
-
-**Avli Restaurant: Concessions Cashier**<br>
-Summer 2019
-- Handled setting the schedule, tracking hours, stocking food and opening/closing
-- Assisted customers by cashiering and preparing food
 
 ## Education
 **University of Michigan**<br>
 BSE Computer Science, Mathematics Minor
 - Estimated Graduation Date: April 2022
-- GPA: 3.92
-- Coursework: Data Structures and Algorithms, Foundations of Computer Science, Introduction to Computer Organization, Introduction to Machine Learning, Introduction to Probability, Linear Algebra
+- GPA: 3.95
+- Coursework: Data Structures and Algorithms, Foundations of Computer Science, Introduction to Computer Organization, Introduction to Machine Learning, Software Engineering, Introduction to Operating Systems, Introduction to Probability, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.<br>
+If it matches, I've taken it:
+`/EECS (2(03|8[01])|37[06]|4(45|8[12]))|Math (2(1[67]|97)|425)|Stats 426/gi`
 
 **Coursera**
 - From the Big Bang to Dark Energy, University of Tokyo
@@ -26,6 +27,17 @@ BSE Computer Science, Mathematics Minor
 - National Merit Scholar
 
 ## Projects
+**Clippy**<br>
+December 2020 &ndash; Ongoing
+
+[github](https://github.com/evanweissburg/clippy)
+
+**Personal Website**<br>
+June 2020 &ndash; Ongoing
+- Created responsive website to showcase my projects and experience
+
+[github](https://github.com/mbickers/personal-site)
+
 **Tallybook**<br>
 November 2019 &ndash; May 2020
 - iOS app to keep track of daily tasks
@@ -34,18 +46,11 @@ November 2019 &ndash; May 2020
 
 [github](https://github.com/mbickers/tallybook)
 
-**Personal Website**<br>
-June 2020 &ndash; Ongoing
-- Created responsive website to showcase my projects and experience
-- Developed script to create formatted resume from website content
-
-[github](https://github.com/mbickers/personal-website)
-
 ## Skills and Interests
-**Languages:** Python, C++, Swift, Objective-C
+**Languages:** Python, C++, Go, Swift, Objective-C
 
 **Technologies:** Git, LaTeX, HTML5
 
 **Platforms:** iOS, macOS, Linux
 
-I love reading, and I just started publishing book reviews.
+I love reading, and I just started publishing book reviews on my website.
