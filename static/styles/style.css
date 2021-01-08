@@ -86,25 +86,39 @@ a {
     color: black;
     text-decoration: none;
     
-    background: linear-gradient(to right, #e66465 0%, #9198e5 100%);
+    background: linear-gradient(to right, #000, #000);
     background-position: 0% 100%;
     background-repeat: no-repeat;
-    transition: background-size .3s ease-out;
 
-    background-size: calc(100% - 0.75em) 0.15em;
+    background-size: calc(100% - 0.75em) 0.1em;
+
+    transition: background-size .3s ease-out;
 }
 
 a:hover, a:focus {
     color: #3f3f3f;
-    background-size: 100% 0.15em;
+
+    background: linear-gradient(to right, #8360c3, #2ebf91);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+
+    background-size: 100% 0.1em;
 }
 
 h1 a, .header-flex-item {
+    background: linear-gradient(to right, #8360c3, #2ebf91);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+
     background-size: 0% .2em;
 }
 
 h1 a:hover, h1 a:focus, .header-flex-item:hover, .header-flex-item:focus {
     color: black;
+
+    background: linear-gradient(to right, #8360c3, #2ebf91);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+
     background-size: 100% .2em;
 }
-
