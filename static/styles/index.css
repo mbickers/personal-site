@@ -2,14 +2,13 @@
     background-color: transparent;
 }
 
-#section-flex-grid {
+#resume-flex-grid {
     display: block;
-
     flex-wrap: wrap;
 }
 
-#section-flex-grid div {
-    display: block;
+.resume-flex-item {
+    margin-bottom: 3em;
 
     flex: 1;
 
@@ -41,7 +40,7 @@ p + ul {
         width: 50%;
     }
 
-    #section-flex-grid {
+    #resume-flex-grid {
         display: flex;
     }
 

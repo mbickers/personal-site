@@ -1,20 +1,21 @@
 ---
 ---
 
-{{% div "welcome" %}}
+{{% div id="welcome" %}}
 ## Hi. I'm Max.
 I'm a second year student at the University of Michigan studying computer science and math. I'm interested in high performance computing, computer architecture and cryptography.
 
-{{% linkrow %}}
+{{% div class="link-row" %}}
 [github](https://github.com/mbickers)
 [linkedin](https://www.linkedin.com/in/maxbickers)
 [resume](/MaxBickersResume.pdf)
 [email](mailto:mbickers@umich.edu)
-{{% /linkrow %}}
 {{% /div %}}
 
-{{% div "section-flex-grid" %}}
-{{% div "experience" %}}
+{{% /div %}}
+
+{{% div id="resume-flex-grid" %}}
+{{% div class="resume-flex-item" id="experience" %}}
 ## Experience
 ***
 **Stripe: Software Engineering Intern**<br>
@@ -28,7 +29,7 @@ Embedded Field Diagnostics Team
 - Utilized Git and internal issue tracking software. Wrote user and maintenance documentation with Confluence
 {{% /div %}}
 
-{{% div "education" %}}
+{{% div class="resume-flex-item" id="education" %}}
 ## Education
 ***
 **University of Michigan**<br>
@@ -46,7 +47,7 @@ BSE Computer Science, Mathematics Minor
 - National Merit Scholar
 {{% /div %}}
 
-{{% div "projects" %}}
+{{% div class="resume-flex-item" id="projects" %}}
 ## Projects
 ***
 **Clippy**<br>
@@ -55,18 +56,18 @@ Clippy is a tool for transferring files between computers by temporarily storing
 - Collaborated with a friend to build a server, client library and command line interface in Go
 - Worked on features including rate-limiting, directory upload and mnemomic creator
 
-{{% linkrow %}}
+{{% div class="link-row" %}}
 [github](https://github.com/evanweissburg/clippy)
-{{% /linkrow %}}
+{{% /div %}}
 
 **Personal Website**<br>
 June 2020 &ndash; Ongoing
 - Created responsive website to showcase my resume and book reviews
 - Built front-end from scratch, site is statically compiled with Hugo
 
-{{% linkrow %}}
+{{% div class="link-row" %}}
 [github](https://github.com/mbickers/personal-site)
-{{% /linkrow %}}
+{{% /div %}}
 
 **Tallybook**<br>
 November 2019 &ndash; May 2020
@@ -74,12 +75,13 @@ November 2019 &ndash; May 2020
 - Prototyped with Adobe XD
 - Written in Swift with SwiftUI and UIKit
 
-{{% linkrow %}}
+{{% div class="link-row" %}}
 [github](https://github.com/mbickers/tallybook)
-{{% /linkrow %}}
 {{% /div %}}
 
-{{% div "skills-interests" %}}
+{{% /div %}}
+
+{{% div class="resume-flex-item" id="skills-interests" %}}
 ## Skills and Interests
 ***
 **Languages:** Python, C++, Go, Swift, Objective-C
@@ -90,4 +92,5 @@ November 2019 &ndash; May 2020
 
 I love reading, and I just started publishing [book reviews](/bookshelf) on my website.
 {{% /div %}}
+
 {{% /div %}}
