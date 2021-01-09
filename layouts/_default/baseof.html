@@ -17,7 +17,17 @@
 
         <div id="wrapper">
             <div id="solid-background">
-                {{ partial "header.html" }}
+                <header>
+                    <h1>
+                        <a href="/">Max Bickers</a>
+                    </h1>
+                    <hr>
+                    <div class="header-flex-container">
+                        <a class="header-flex-item" href="/">about</a>
+                        <a class="header-flex-item" href="/bookshelf">bookshelf</a>
+                        <a class="header-flex-item" href="mailto:mbickers@umich.edu">contact</a>
+                    </div>
+                </header>
 
                 {{ block "main" . }}
                 {{ end }}
