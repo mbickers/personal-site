@@ -1,4 +1,5 @@
 ---
+title: "Max Bickers"
 ---
 
 {{% div id="welcome" %}}
