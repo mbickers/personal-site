@@ -1,24 +1,11 @@
 ---
 title: "Max Bickers"
+type: "page"
+layout: "resume"
 _build:
     list: false
-    render: false
 ---
 
-{{% div id="welcome" %}}
-## Hi. I'm Max.
-I'm a second year student at the University of Michigan studying computer science and math. I'm interested in high performance computing, computer architecture and cryptography.
-
-{{% div class="link-row" %}}
-[github](https://github.com/mbickers)
-[linkedin](https://www.linkedin.com/in/maxbickers)
-[resume](/MaxBickersResume.pdf)
-[email](mailto:mbickers@umich.edu)
-{{% /div %}}
-
-{{% /div %}}
-
-{{% div id="resume-flex-grid" %}}
 {{% div class="resume-flex-item" id="experience" %}}
 ## Experience
 ***
@@ -74,10 +61,9 @@ June 2020 &ndash; Ongoing
 {{% /div %}}
 
 **Tallybook**<br>
-November 2019 &ndash; May 2020
-- iOS app to keep track of daily tasks
-- Prototyped with Adobe XD
-- Written in Swift with SwiftUI and UIKit
+November 2019 &ndash; May 2020<br>
+Tallybook is an iOS app to keep track of daily tasks
+- Developed in Swift with SwiftUI and UIKit
 
 {{% div class="link-row" %}}
 [github](https://github.com/mbickers/tallybook)
@@ -95,6 +81,4 @@ November 2019 &ndash; May 2020
 **Platforms:** iOS, macOS, Linux
 
 I love reading, and I just started publishing [book reviews](/bookshelf) on my website.
-{{% /div %}}
-
 {{% /div %}}

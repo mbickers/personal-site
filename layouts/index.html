@@ -3,7 +3,15 @@
 {{ end }}
 
 {{ define "main" }}
-{{ with .GetPage "resume" }}
-{{ .Content }}
-{{ end }}
+<div id="welcome">
+    {{ with .GetPage "welcome" }}
+    {{ .Content }}
+    {{ end }}
+</div>
+
+<div id="resume-flex-grid">
+    {{ with .GetPage "resume" }}
+    {{ .Content }}
+    {{ end }}
+</div>
 {{ end }}

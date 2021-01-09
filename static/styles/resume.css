@@ -1,0 +1,40 @@
+* {
+    animation: none !important;
+}
+
+body {
+    margin: auto;
+    max-width: 8.5in;
+    max-height: 11in;
+    font-size: 83%;
+    padding: 0.1in 0.25in 0.25in;
+}
+
+header {
+    margin-bottom: 1em;
+}
+
+a {
+    background: none;
+}
+
+.link-row p a {
+    font-style: italic;
+}
+
+.link-row {
+    margin-bottom: 1.25em;
+}
+
+#resume-flex-grid {
+    display: flex;
+}
+
+#experience, #projects {
+    margin-right: 5em;
+}
+
+.resume-flex-item .link-row {
+    display: none;
+}
+
