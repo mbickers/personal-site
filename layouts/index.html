@@ -3,5 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
+{{ with .GetPage "resume" }}
 {{ .Content }}
+{{ end }}
 {{ end }}

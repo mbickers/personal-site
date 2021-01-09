@@ -1,5 +1,8 @@
 ---
 title: "Max Bickers"
+_build:
+    list: false
+    render: false
 ---
 
 {{% div id="welcome" %}}
