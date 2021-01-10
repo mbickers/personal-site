@@ -10,8 +10,8 @@ body {
     margin: auto;
     max-width: 8.5in;
     max-height: 11in;
-    font-size: 83%;
-    padding: 0.1in 0.25in 0.25in;
+    font-size: 78%;
+    padding: 0.1in 0.25in 0in;
 }
 
 header {
@@ -32,6 +32,10 @@ a {
 
 #resume-flex-grid {
     display: flex;
+}
+
+.resume-flex-item {
+    margin-bottom: 2em;
 }
 
 #experience, #projects {
