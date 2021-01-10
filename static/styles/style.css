@@ -63,6 +63,7 @@ h1, h2 {
 .float-right {
     float: right;
     text-align: right;
+    margin-left: 1em;
 }
 
 /* Text */
