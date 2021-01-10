@@ -2,6 +2,10 @@
     animation: none !important;
 }
 
+[tooltip]::before {
+    display: none !important;
+}
+
 body {
     margin: auto;
     max-width: 8.5in;

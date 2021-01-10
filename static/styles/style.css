@@ -66,6 +66,19 @@ h1, h2 {
     margin-left: 1em;
 }
 
+[tooltip]:hover::before, [tooltip]:focus::before {
+    content: attr(tooltip);
+    display: inline-block;
+    position: absolute;
+    z-index: 1;
+
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 3px;
+
+    background-color: white;
+}
+
 /* Text */
 
 h1, h2, .header-flex-item {

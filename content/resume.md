@@ -24,7 +24,7 @@ Embedded Field Diagnostics Team
 ### University of Michigan {{< floatright "Aug 2019 &ndash; Present" >}}
 BSE Computer Science, Mathematics Minor (3.95 GPA).
 
-Advanced Coursework: Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.<br>
+<span tooltip="If it matches, I took it: /EECS (2(03|8[01])|37[06]|4(45|8[12]))|Math (2(1[67]|97)|425)|Stats 426/gi"> Advanced Coursework: Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.  </span>
 
 ### Coursera
 - From the Big Bang to Dark Energy, University of Tokyo
