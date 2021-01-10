@@ -9,11 +9,9 @@ _build:
 {{% div class="resume-flex-item" id="experience" %}}
 ## Experience
 ***
-**Stripe: Software Engineering Intern**<br>
-Summer 2021
+### Stripe: Software Engineering Intern {{< floatright "Summer 2021" >}}
 
-**Apple: Software Engineering Intern**<br>
-Summer 2020<br>
+### Apple: Software Engineering Intern {{< floatright "Summer 2020" >}}
 Embedded Field Diagnostics Team
 - Developed iOS app to configure and run internal device diagnostic programs
 - Implemented new features to improve single and multi-device workflows
@@ -23,26 +21,24 @@ Embedded Field Diagnostics Team
 {{% div class="resume-flex-item" id="education" %}}
 ## Education
 ***
-**University of Michigan**<br>
+### University of Michigan {{< floatright "Aug 2019 - Present" >}}
 BSE Computer Science, Mathematics Minor
-- Estimated Graduation Date: April 2022
 - GPA: 3.95
 - Advanced Coursework: Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.<br>
 
-**Coursera**
+### Coursera
 - From the Big Bang to Dark Energy, University of Tokyo
 - Medical Neuroscience, Duke University
 - Machine Learning, Stanford
 
-**New Trier High School**
+### New Trier High School
 - National Merit Scholar
 {{% /div %}}
 
 {{% div class="resume-flex-item" id="projects" %}}
 ## Projects
 ***
-**Clippy**<br>
-December 2020 &ndash; Ongoing<br>
+### Clippy {{< floatright "December 2020 - Present" >}}
 Clippy is a tool for transferring files between computers by temporarily storing them online.
 - Collaborated with a friend to build a server, client library and command line interface in Go
 - Worked on features including rate-limiting, directory upload and mnemomic creator
@@ -51,8 +47,7 @@ Clippy is a tool for transferring files between computers by temporarily storing
 [github](https://github.com/evanweissburg/clippy)
 {{% /div %}}
 
-**Personal Website**<br>
-June 2020 &ndash; Ongoing
+### Personal Website {{< floatright "June 2020 - Present" >}}
 - Created responsive website to showcase my resume and book reviews
 - Built front-end from scratch, site is statically compiled with Hugo
 
@@ -60,8 +55,7 @@ June 2020 &ndash; Ongoing
 [github](https://github.com/mbickers/personal-site)
 {{% /div %}}
 
-**Tallybook**<br>
-November 2019 &ndash; May 2020<br>
+### Tallybook {{< floatright "November 2019 - May 2020" >}}
 Tallybook is an iOS app to keep track of daily tasks
 - Developed in Swift with SwiftUI and UIKit
 

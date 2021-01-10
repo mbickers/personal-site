@@ -60,15 +60,12 @@ h1, h2 {
     margin-right: 0.3em;
 }
 
-/* Text */
-strong {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
+.float-right {
+    float: right;
+    text-align: right;
 }
 
-.no-break {
-    white-space: nowrap;
-}
+/* Text */
 
 h1, h2, .header-flex-item {
     font-size: 1.4em;
@@ -76,10 +73,18 @@ h1, h2, .header-flex-item {
     font-family: 'Nunito Sans', sans-serif;
 }
 
-p, li {
+h3, strong, p, li, .float-right {
     font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+    font-size: inherit;
     line-height: 1.6;
+}
+
+h3, strong {
+    font-weight: 400;
+}
+
+p, li, .float-right {
+    font-weight: 300;
 }
 
 a {

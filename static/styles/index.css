@@ -26,12 +26,34 @@
     margin-bottom: 0.5em;
 }
 
+.resume-flex-item hr {
+    margin-bottom: 0;
+}
+
+h3 {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.resume-flex-item h3 {
+    margin-top: 1em;
+}
+
+h3 + p, h3 + ul {
+    margin-top: 0;
+}
+
 p + ul {
     margin-top: -1em;
 }
 
-#projects .link-row {
-    margin-top: -1em;
+ul {
+    margin-bottom: 0;
+}
+
+.resume-flex-item .link-row p {
+    margin-top: 0;
 }
 
 /* Responsive Layout */
