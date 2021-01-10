@@ -22,9 +22,8 @@ Embedded Field Diagnostics Team
 ## Education
 ***
 ### University of Michigan {{< floatright "Aug 2019 &ndash; Present" >}}
-BSE Computer Science, Mathematics Minor
-- GPA: 3.95
-- Advanced Coursework: Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.<br>
+BSE Computer Science, Mathematics Minor (3.95 GPA).<br>
+Advanced Coursework: Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.<br>
 
 ### Coursera
 - From the Big Bang to Dark Energy, University of Tokyo
