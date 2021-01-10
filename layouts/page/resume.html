@@ -6,14 +6,23 @@
 
         <title>Max Bickers</title>
 
-        <link rel="stylesheet" type="text/css" href="/styles/style.css">
-        <link rel="stylesheet" type="text/css" href="/styles/index.css">
-        <link rel="stylesheet" type="text/css" href="/styles/resume.css">
+<style>
+{{ readFile "static/styles/style.css" | safeCSS }}
+</style>
+
+<style>
+{{ readFile "static/styles/index.css" | safeCSS }}
+</style>
+
+<style>
+{{ readFile "static/styles/resume.css" | safeCSS }}
+</style>
+
     </head>
     <body>
         <header>
             <h1>
-                <a href="https://bickers.dev">Max Bickers</a>
+                <a href="https://bickers.dev/">Max Bickers</a>
             </h1>
             <hr>
         </header>
