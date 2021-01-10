@@ -74,5 +74,5 @@ Tallybook is an iOS app to keep track of daily tasks
 
 **Platforms:** iOS, macOS, Linux
 
-I love reading, and I just started publishing [book reviews](https://bickers.dev/bookshelf) on my website.
+I love reading, and I just started publishing [book reviews](/bookshelf) on my website.
 {{% /div %}}
