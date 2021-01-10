@@ -49,7 +49,7 @@ Clippy is a tool for transferring files between computers by temporarily storing
 
 ### Personal Website {{< floatright "June 2020 &ndash; Present" >}}
 - Created responsive website to showcase my resume and book reviews
-- Built front-end from scratch, site is statically compiled with Hugo
+- Built front-end from scratch, set up static compilation with Hugo
 
 {{% div class="link-row" %}}
 [github](https://github.com/mbickers/personal-site)
