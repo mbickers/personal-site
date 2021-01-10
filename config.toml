@@ -1,7 +1,7 @@
 baseURL = "https://bickers.dev/"
 languageCode = "en-us"
 title = "Max Bickers"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [markup.goldmark.renderer]
 unsafe = true
