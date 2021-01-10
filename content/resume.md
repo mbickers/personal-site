@@ -22,7 +22,8 @@ Embedded Field Diagnostics Team
 ## Education
 ***
 ### University of Michigan {{< floatright "Aug 2019 &ndash; Present" >}}
-BSE Computer Science, Mathematics Minor (3.95 GPA).<br>
+BSE Computer Science, Mathematics Minor (3.95 GPA).
+
 Advanced Coursework: Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.<br>
 
 ### Coursera
