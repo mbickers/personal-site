@@ -1,9 +1,9 @@
 ---
-title: "Naive Set Theory"
-BookTitle: "Naive Set Theory"
+Title: "Naive Set Theory"
 BookAuthor: "Paul R. Halmos"
 BookPublisher: Book Publisher
-date: 2020-10-25T20:50:28-04:00
+DateFinished: 2020-8-25T20:50:28-04:00
+Rating: 4
 ---
 
 *Naive Set Theory* is a short introduction to set theory, starting with the basic definition of a set and building up to the set theoretic foundation of arithmetic, important theories and cardinal numbers.

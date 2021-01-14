@@ -1,9 +1,9 @@
 ---
-title: "The C++ Programming Language"
-BookTitle: "The C++ Programming Language"
+Title: "The C++ Programming Language"
 BookAuthor: "Bjarne Stroustrup"
 BookPublisher: Book Publisher
-date: 2020-10-25T14:37:37-04:00
+DateFinished: 2020-10-25T14:37:37-04:00
+Rating: 3
 ---
 
 Written by the creator of C++, this book was widely recommended online as a must-read for people who want to move beyond the basics of C++.
