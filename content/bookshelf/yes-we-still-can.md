@@ -3,7 +3,7 @@ Title: "Yes We (Still) Can"
 BookAuthor: Dan Pfeiffer
 BookPublisher: Twelve
 BookPublished: 2018
-DateFinished: 2020-7-28T20:32:19-04:00
+DateFinished: 2020-07-28T20:32:19-04:00
 Rating: 3
 ---
 
