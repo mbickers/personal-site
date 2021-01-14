@@ -1,7 +1,8 @@
 ---
 Title: "Zionist Israel and the Question of Palestine"
 BookAuthor: Tamar Amar-Dahl
-BookPublisher: Book Publisher
+BookPublisher: De Gruyter
+BookPublished: 2017
 DateFinished: 2020-10-26T16:14:32-04:00
 Rating: 3
 ---
