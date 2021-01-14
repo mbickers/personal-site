@@ -5,7 +5,7 @@
 
         <ul>
             {{ range .Pages }}
-            <li><a href="{{ .RelPermalink }}">{{ .Params.BookTitle }}</a> by {{ .Params.BookAuthor }}</li>
+            <li><a href="{{ .RelPermalink }}">{{ .Params.Title }}</a> by {{ .Params.BookAuthor }}</li>
             {{ end }}
         </ul>
 {{ end }}
