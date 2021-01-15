@@ -3,7 +3,7 @@ Title: "Advanced Programming in the Unix Environment"
 BookAuthor: "W. Richard Stevens and Stephen A. Rago"
 BookPublisher: Addison Wesley
 BookPublished: 2013
-DateFinished: 2020-09-26T21:05:17-04:00
+DateFinished: 2020-09-26
 Rating: 4
 ---
 

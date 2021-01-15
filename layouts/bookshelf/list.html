@@ -1,11 +1,18 @@
 {{ define "main" }}
-        <h1>{{ .Title }}</h1>
+    <h1>{{ .Title }}</h1>
 
-        {{ .Content }}
+    {{ .Content }}
 
+    {{ range .Pages.GroupByParamDate "DateFinished" "2006" }}
+        <h3>{{ .Key }}</h3>
         <ul>
-            {{ range .Pages }}
-            <li><a href="{{ .RelPermalink }}">{{ .Params.Title }}</a> by {{ .Params.BookAuthor }}</li>
-            {{ end }}
+        {{ range .Pages }}
+            <li>
+                {{ if (eq .Params.Rating 4) }}*{{ else if (eq .Params.Rating 5) }}**{{ end }}
+                <a href="{{ .RelPermalink }}">{{ .Params.Title }}</a>
+                by {{ .Params.BookAuthor }}
+            </li>
+        {{ end }}
         </ul>
+    {{ end }}
 {{ end }}

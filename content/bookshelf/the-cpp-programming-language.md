@@ -3,7 +3,7 @@ Title: "The C++ Programming Language"
 BookAuthor: "Bjarne Stroustrup"
 BookPublisher: Addison-Wesley
 BookPublished: 2013
-DateFinished: 2020-10-25T14:37:37-04:00
+DateFinished: 2020-10-25
 Rating: 4
 ---
 

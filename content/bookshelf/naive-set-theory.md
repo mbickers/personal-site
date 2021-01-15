@@ -3,7 +3,7 @@ Title: "Naive Set Theory"
 BookAuthor: "Paul R. Halmos"
 BookPublisher: Springer
 BookPublished: 1974
-DateFinished: 2020-08-25T20:50:28-04:00
+DateFinished: 2020-08-25
 Rating: 4
 ---
 

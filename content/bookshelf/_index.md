@@ -14,3 +14,5 @@ I've had a great experience with those sites, and I'd highly recommend looking t
 Quick shout-out to [Danny Yee's Book Reviews](http://dannyreviews.com).
 Danny's reviews have helped me discover new books to read, offered valuable insight while reading, and guided me about how to collect and organize my own thoughts about books I've read.
 I'm publishing my reviews with the hope that they could help someone else the way Danny's have helped me.
+
+\* denotes good; \*\* denotes incredible.
