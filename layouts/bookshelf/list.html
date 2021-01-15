@@ -7,9 +7,13 @@
         <h3>{{ .Key }}</h3>
         <ul>
         {{ range .Pages }}
-            <li>
+            <li style="margin-bottom: 0.5em">
                 {{ if (eq .Params.Rating 4) }}*{{ else if (eq .Params.Rating 5) }}**{{ end }}
-                <a href="{{ .RelPermalink }}">{{ .Params.Title }}</a>
+                {{ if not (eq (len .Content) 0) }}
+                    <a href="{{ .RelPermalink }}"><em>{{ .Params.Title }}</em></a>
+                {{ else }}
+                    <em>{{ .Params.Title }}</em>
+                {{ end }}
                 by {{ .Params.BookAuthor }}
             </li>
         {{ end }}
