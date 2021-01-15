@@ -1,7 +1,12 @@
 {{ define "main" }}
-<h1>{{ .Title }} by {{ .Params.BookAuthor }}</h1>
+<h1>{{ .Title }}</h1>
 
-<p>Review by Max Bickers, around {{ .Params.DateFinished | dateFormat "January 2006" }}.</p>
+<p>
+<strong>{{ .Params.BookAuthor }}</strong><br>
+<strong>{{ .Params.BookPublisher }} {{ .Params.BookPublished }}</strong>
+</p>
+
+<p>Review by Max Bickers, finished reading {{ .Params.DateFinished | dateFormat "January 2006" }}.</p>
 
 {{ .Content }}
 {{ end }}
