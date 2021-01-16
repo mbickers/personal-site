@@ -9,7 +9,7 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
         exit 2
     fi
 else
-    if [ -v "$NETLIFY_CACHE_DIR" ]; then
+    if [ -z "${NETLIFY_CACHE_DIR:-}" ]; then
         CHROME_DIR="chrome"
     else
         CHROME_DIR="$NETLIFY_CACHE_DIR/chrome"
