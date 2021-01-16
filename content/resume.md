@@ -13,6 +13,7 @@ _build:
 
 ### Apple: Software Engineering Intern {{< floatright "Summer 2020" >}}
 Embedded Field Diagnostics Team
+
 - Developed iOS app to configure and run internal device diagnostic programs
 - Implemented new features to improve single and multi-device workflows
 - Utilized Git and internal issue tracking software. Wrote user and maintenance documentation with Confluence
@@ -40,6 +41,7 @@ BSE Computer Science, Mathematics Minor (3.95 GPA).
 ***
 ### Clippy {{< floatright "December 2020 &ndash; Present" >}}
 Clippy is a tool for transferring files between computers by temporarily storing them online.
+
 - Collaborated with a friend to build a server, client library and command line interface in Go
 - Worked on features including rate-limiting, directory upload and mnemomic creator
 
@@ -57,6 +59,7 @@ Clippy is a tool for transferring files between computers by temporarily storing
 
 ### Tallybook {{< floatright "November 2019 &ndash; May 2020" >}}
 Tallybook is an iOS app to keep track of daily tasks
+
 - Developed in Swift with SwiftUI and UIKit
 
 {{% div class="link-row" %}}
