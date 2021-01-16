@@ -10,6 +10,7 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
     fi
 else
     # Install Chrome
+    rm -rf chrome
     wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
     mkdir chrome
     dpkg -x google-chrome-stable_current_amd64.deb chrome
