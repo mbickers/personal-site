@@ -19,6 +19,7 @@ else
 
     if [[ ! -f "$CHROME_BIN" ]]; then
         echo "Installing chrome to $CHROME_DIR"
+        mkdir -p "$CHROME_DIR"
         wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
         dpkg -x google-chrome-stable_current_amd64.deb "$CHROME_DIR"
         rm google-chrome-stable_current_amd64.deb
