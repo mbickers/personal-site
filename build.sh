@@ -1,7 +1,6 @@
 #!/bin/bash
 set -eou pipefail
 
-# Check if building locally or on Netlify
 if [[ "$OSTYPE" == "darwin"* ]]; then
     CHROME_BIN="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
     if [[ ! -f "$CHROME_BIN" ]]; then
