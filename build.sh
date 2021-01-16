@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 set -eou pipefail
 
 # Check if building locally or on Netlify
