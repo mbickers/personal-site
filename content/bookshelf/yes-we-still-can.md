@@ -1,11 +1,12 @@
----
-Title: "Yes We (Still) Can"
-BookAuthor: Dan Pfeiffer
-BookPublisher: Twelve
-BookPublished: 2018
-DateFinished: 2020-07-28
-Rating: 3
----
++++
+BookAuthor = "Dan Pfeiffer"
+BookPublished = 2018
+BookPublisher = "Twelve"
+DateFinished = "2020-07-28"
+Rating = 3
+Title = "Yes We (Still) Can"
+
++++
 
 Pfeiffer is one of the hosts of Pod Save America, a political podcast hosted by several Obama administration officials.
 As a Pod Save America listener whose favorite parts of the Pod are anecdotes from the Obama White House, there wasn't really any chance that I would dislike reading *Yes We (Still) Can*.

@@ -1,6 +1,7 @@
----
-Title: Bookshelf
----
++++
+Title = "Bookshelf"
+
++++
 
 I don't feel like I've gotten the most out of a book until I take the time to reflect on it.
 For me, that reflection often naturally evolves into a review, as I think about what I enjoyed and what I didn't.

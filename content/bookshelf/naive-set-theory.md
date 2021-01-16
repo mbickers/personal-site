@@ -1,11 +1,12 @@
----
-Title: "Naive Set Theory"
-BookAuthor: "Paul R. Halmos"
-BookPublisher: Springer
-BookPublished: 1974
-DateFinished: 2020-08-25
-Rating: 4
----
++++
+BookAuthor = "Paul R. Halmos"
+BookPublished = 1974
+BookPublisher = "Springer"
+DateFinished = "2020-08-25"
+Rating = 4
+Title = "Naive Set Theory"
+
++++
 
 *Naive Set Theory* is a short introduction to set theory, starting with the basic definition of a set and building up to the set theoretic foundation of arithmetic, important theories and cardinal numbers.
 The content of the book was almost all new for me, so I can't compare it to other sources or say if it misses anything important.

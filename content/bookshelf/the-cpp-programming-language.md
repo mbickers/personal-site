@@ -1,11 +1,12 @@
----
-Title: "The C++ Programming Language"
-BookAuthor: "Bjarne Stroustrup"
-BookPublisher: Addison-Wesley
-BookPublished: 2013
-DateFinished: 2020-10-25
-Rating: 4
----
++++
+BookAuthor = "Bjarne Stroustrup"
+BookPublished = 2013
+BookPublisher = "Addison-Wesley"
+DateFinished = "2020-10-25"
+Rating = 4
+Title = "The C++ Programming Language"
+
++++
 
 Written by the creator of C++, this book was widely recommended online as a must-read for people who want to move beyond the basics of C++.
 Before reading, I fell squarely into that category.

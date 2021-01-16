@@ -1,11 +1,12 @@
----
-Title: "Zionist Israel and the Question of Palestine"
-BookAuthor: Tamar Amar-Dahl
-BookPublisher: De Gruyter
-BookPublished: 2017
-DateFinished: 2020-10-26
-Rating: 3
----
++++
+BookAuthor = "Tamar Amar-Dahl"
+BookPublished = 2017
+BookPublisher = "De Gruyter"
+DateFinished = "2020-10-26"
+Rating = 3
+Title = "Zionist Israel and the Question of Palestine"
+
++++
 
 This book explores the history of Israel and Zionism through primary sources, focusing on ideological contradictions.
 Unlike some books on Israel and Palestine, the text is not built around historical 'gotchas' trying to demonize the other side---nor is there is an overarching 'pro-' or 'anti-' argument.

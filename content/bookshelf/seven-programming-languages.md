@@ -1,11 +1,12 @@
----
-Title: "Seven Programming Languages in Seven Weeks"
-BookAuthor: Bruce Tate
-BookPublisher: Pragmatic Bookshelf
-BookPublished: 2010
-DateFinished: 2020-09-26
-Rating: 3
----
++++
+BookAuthor = "Bruce Tate"
+BookPublished = 2010
+BookPublisher = "Pragmatic Bookshelf"
+DateFinished = "2020-09-26"
+Rating = 3
+Title = "Seven Programming Languages in Seven Weeks"
+
++++
 
 *Seven Programming Languages in Seven Weeks* is a really cool book.
 The purpose of the book isn't just to expand the reader's toolbox of languages; instead, it's that the ideas and techniques in a language expand one's mind and are often applicable beyond the scope of that particular language.

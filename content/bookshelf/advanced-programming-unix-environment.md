@@ -1,11 +1,12 @@
----
-Title: "Advanced Programming in the Unix Environment"
-BookAuthor: "W. Richard Stevens and Stephen A. Rago"
-BookPublisher: Addison Wesley
-BookPublished: 2013
-DateFinished: 2020-09-26
-Rating: 4
----
++++
+BookAuthor = "W. Richard Stevens and Stephen A. Rago"
+BookPublished = 2013
+BookPublisher = "Addison Wesley"
+DateFinished = "2020-09-26"
+Rating = 4
+Title = "Advanced Programming in the Unix Environment"
+
++++
 
 In *Advanced Programming in the Unix Environment* (referred to as APUE in the text), authors Stevens and Rago explore different aspects of the Unix standard.
 I enjoyed this classic because it struck a balance between programming reference and exposition/explanation.
