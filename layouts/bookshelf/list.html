@@ -3,8 +3,6 @@
 
     {{ .Content }}
 
-    {{ range .Pages.GroupByParamDate "DateFinished" "2006" }}
-        <h3>{{ .Key }}</h3>
         {{ range .Pages }}
             <p style="margin: 0.5em 0">
                 {{ if not (eq (len .Content) 0) }}
@@ -16,5 +14,4 @@
                 {{ if (eq .Params.Rating 4) }}*{{ else if (eq .Params.Rating 5) }}**{{ end }}
             </p>
         {{ end }}
-    {{ end }}
 {{ end }}
