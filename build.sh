@@ -9,10 +9,10 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
         exit 2
     fi
 else
-    if [ -z "${NETLIFY_CACHE_DIR:-}" ]; then
-        CHROME_DIR="chrome"
+    if [ -v NETLIFY ]; then
+        CHROME_DIR="/opt/buildhome/cache/chrome"
     else
-        CHROME_DIR="$NETLIFY_CACHE_DIR/chrome"
+        CHROME_DIR="chrome"
     fi
 
     CHROME_BIN="$CHROME_DIR/opt/google/chrome/google-chrome"
