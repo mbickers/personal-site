@@ -16,7 +16,7 @@ Embedded Field Diagnostics Team
 
 - Developed iOS app to configure and run internal device diagnostic programs
 - Implemented new features to improve single and multi-device workflows
-- Utilized Git and internal issue tracking software. Wrote user and maintenance documentation with Confluence
+- Utilized Git and internal issue tracking software, wrote user and maintenance documentation with Confluence
 {{% /div %}}
 
 {{% div class="resume-flex-item" id="education" %}}
@@ -42,7 +42,7 @@ BSE Computer Science, Mathematics Minor (3.95 GPA).
 ### Clippy {{< floatright "December 2020 &ndash; Present" >}}
 Clippy is a tool for transferring files between computers by temporarily storing them online.
 
-- Collaborated with a friend to build a server, client library and command line interface in Go
+- Collaborated with [a friend](https://www.linkedin.com/in/evanweissburg/) to build a server, client library and command line interface in Go
 - Worked on features including rate-limiting, directory upload and mnemomic creator
 
 {{% div class="link-row" %}}
@@ -58,7 +58,7 @@ Clippy is a tool for transferring files between computers by temporarily storing
 {{% /div %}}
 
 ### Tallybook {{< floatright "November 2019 &ndash; May 2020" >}}
-Tallybook is an iOS app to keep track of daily tasks
+Tallybook is an iOS app to keep track of daily tasks.
 
 - Developed in Swift with SwiftUI and UIKit
 
