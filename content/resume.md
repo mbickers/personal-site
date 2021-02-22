@@ -36,7 +36,7 @@ BSE Computer Science, Mathematics Minor (3.95 GPA).
 ### Clippy {{< floatright "December 2020 &ndash; Present" >}}
 Clippy is a tool for transferring files between computers by temporarily storing them online.
 
-- Collaborated with [a friend](https://www.linkedin.com/in/evanweissburg/) to build a server, client library and command line interface in Go
+- Collaborated with a friend to build a server, client library and command line interface in Go
 - Worked on features including rate-limiting, directory upload and mnemomic creator
 
 {{% div class="link-row" %}}
