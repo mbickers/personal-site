@@ -45,7 +45,7 @@ Clippy is a tool for transferring files between computers by temporarily storing
 
 ### Personal Website {{< floatright "June 2020 &ndash; Present" >}}
 - Created responsive website to showcase my resume and book reviews
-- Built front-end from scratch, set up static compilation with Hugo
+- Built front-end from scratch, set up static compilation with Hugo, configured automated deployment with Netlify
 
 {{% div class="link-row" %}}
 [github](https://github.com/mbickers/personal-site)
@@ -65,11 +65,11 @@ Tallybook is an iOS app to keep track of daily tasks.
 {{% div class="resume-flex-item" id="skills-interests" %}}
 ## Skills and Interests
 ***
-**Languages:** Python, C++, Go, Swift, Objective-C
+**Languages:** Python, C++, Go, Swift, Objective-C, Bash
 
 **Technologies:** Git, LaTeX, HTML5
 
 **Platforms:** iOS, macOS, Linux
 
-I love reading, and I just started publishing [book reviews](https://bickers.dev/bookshelf) on my website.
+I love reading, and I just started publishing book reviews on my website.
 {{% /div %}}

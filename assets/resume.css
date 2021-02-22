@@ -23,11 +23,12 @@ header {
     margin-bottom: 1em;
 }
 
-a {
-    background: none;
+h1 a {
+    font-style: inherit;
 }
 
-.link-row p a {
+a {
+    background: none;
     font-style: italic;
 }
 
@@ -50,4 +51,3 @@ a {
 .resume-flex-item .link-row {
     display: none;
 }
-
