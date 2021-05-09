@@ -14,7 +14,7 @@ The book also includes many asides, which discuss the history of an aspect of op
 
 Most of the content of the book is pretty digestible, and the case studies are all interesting and relevant.
 Chapter 9, on caching and virtual memory, was particularly well written.
-I really liked the discussion on when caches work well and when they reach limitations or pathological cases, 
+I really liked the discussion on when caches work well and when they reach limitations or pathological cases.
 
 Perhaps it is difficult to write a beautiful operating systems book (particularly one for undergrads), given that a general textbook has to cover so much and that the field is still evolving.
 However, there were a few flaws that make the book tough to recommend:

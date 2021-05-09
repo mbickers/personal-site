@@ -22,7 +22,7 @@ Embedded Field Diagnostics Team
 ## Education
 ***
 ### University of Michigan {{< floatright "August 2019 &ndash; Present" >}}
-BSE Computer Science, Mathematics Minor (3.95 GPA).
+BSE Computer Science, Mathematics Minor (3.93 GPA).
 
 <span tooltip="If it matches, I took it: /EECS (2(03|8[01])|37[06]|4(45|8[12]))|Math (2(1[67]|97)|425)|Stats 426/gi"> Advanced Coursework: Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.</span>
 
@@ -33,7 +33,7 @@ BSE Computer Science, Mathematics Minor (3.95 GPA).
 {{% div class="resume-flex-item" id="projects" %}}
 ## Projects
 ***
-### Clippy {{< floatright "December 2020 &ndash; Present" >}}
+### Clippy {{< floatright "December 2020 &ndash; January 2021" >}}
 Clippy is a tool for transferring files between computers by temporarily storing them online.
 
 - Collaborated with a friend to build a server, client library and command line interface in Go
@@ -65,7 +65,7 @@ Tallybook is an iOS app to keep track of daily tasks.
 {{% div class="resume-flex-item" id="skills-interests" %}}
 ## Skills and Interests
 ***
-**Languages:** Python, C++, Go, Swift, Objective-C, Bash
+**Languages:** Python, C++, Swift, Objective-C, Bash, Java
 
 **Technologies:** Git, LaTeX, HTML5
 

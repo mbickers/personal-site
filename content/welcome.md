@@ -5,7 +5,7 @@ _build:
 ---
 
 ## Hi. I'm Max.
-I'm a second year student at the University of Michigan studying computer science and math. I'm interested in high performance computing, computer architecture and cryptography.
+I'm a junior at the University of Michigan studying computer science and math. I'm interested in high performance computing, computer architecture and algorithms.
 
 {{% div class="link-row" %}}
 [github](https://github.com/mbickers)
