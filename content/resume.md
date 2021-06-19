@@ -10,6 +10,9 @@ _build:
 ## Experience
 ***
 ### Stripe: Software Engineering Intern {{< floatright "Summer 2021" >}}
+Money Movement Policy Team
+
+- Created a tool to backtest and analyze rules that restrict and transform money movements
 
 ### Apple: Software Engineering Intern {{< floatright "Summer 2020" >}}
 Embedded Field Diagnostics Team
@@ -45,7 +48,7 @@ Clippy is a tool for transferring files between computers by temporarily storing
 
 ### Personal Website {{< floatright "June 2020 &ndash; Present" >}}
 - Created responsive website to showcase my resume and book reviews
-- Built front-end from scratch, set up static compilation with Hugo, configured automated deployment with Netlify
+- Set up automated compilation and deployment with Hugo and Netlify
 
 {{% div class="link-row" %}}
 [github](https://github.com/mbickers/personal-site)
@@ -71,5 +74,5 @@ Tallybook is an iOS app to keep track of daily tasks.
 
 **Platforms:** iOS, macOS, Linux
 
-I love reading, and I just started publishing book reviews on my website.
+I love reading, and I publish reviews of math and computer science books on my website.
 {{% /div %}}
