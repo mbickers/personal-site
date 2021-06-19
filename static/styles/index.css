@@ -2,20 +2,6 @@
     background-color: transparent;
 }
 
-#resume-flex-grid {
-    display: block;
-    flex-wrap: wrap;
-}
-
-.resume-flex-item {
-    margin-bottom: 3em;
-
-    flex: 1;
-
-    /* Don't want more than 2 columns per row */
-    min-width: 40%;
-}
-
 #welcome {
     margin-top: 13vh;
     margin-bottom: 13vh;
@@ -26,35 +12,10 @@
     margin-bottom: 0.5em;
 }
 
-.resume-flex-item hr {
-    margin-bottom: 0;
-}
-
-h3 {
-    display: inline-block;
-    width: 100%;
-}
-
-#skills-interests p, .resume-flex-item h3 {
-    margin: 1em 0 0;
-}
-
-.resume-flex-item p, .resume-flex-item ul {
-    margin: 0;
-}
-
 /* Responsive Layout */
 @media screen and (min-width: 800px) {
     #welcome {
         width: 50%;
-    }
-
-    #resume-flex-grid {
-        display: flex;
-    }
-
-    #experience, #projects {
-        margin-right: 5em;
     }
 }
 
