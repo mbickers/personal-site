@@ -6,73 +6,50 @@ _build:
     list: false
 ---
 
-{{% div class="resume-flex-item" id="experience" %}}
-## Experience
+# Max Bickers
 ***
-### Stripe: Software Engineering Intern {{< floatright "Summer 2021" >}}
-Money Movement Policy Team
+[bickers.dev](https://bickers.dev) |
+[mbickers@umich.edu](mailto:mbickers@umich.edu) |
+[(847) 716-0790](tel:847-716-0790) |
+[github.com/mbickers](https://github.com/mbickers) |
+[linkedin.com/in/maxbickers](https://www.linkedin.com/in/maxbickers)
 
-- Created a tool to backtest and analyze rules that restrict and transform money movements
+I'm a junior at the University of Michigan studying computer science and math. My interests are high performance computing, programming languages, and algorithms.
 
-### Apple: Software Engineering Intern {{< floatright "Summer 2020" >}}
-Embedded Field Diagnostics Team
-
-- Developed iOS app to configure and run internal device diagnostic programs, including new features to improve single and multi-device workflows
-- Used Git and internal issue tracking software, wrote user and maintenance documentation with Confluence
-{{% /div %}}
-
-{{% div class="resume-flex-item" id="education" %}}
+{{% div class="resume-body" %}}
 ## Education
-***
 ### University of Michigan {{< floatright "August 2019 &ndash; Present" >}}
-BSE Computer Science, Mathematics Minor (3.93 GPA).
+BSE Computer Science, Mathematics Minor; 3.93 GPA. Expected graduation May 2023.
 
-<span tooltip="If it matches, I took it: /EECS (2(03|8[01])|37[06]|4(45|8[12]))|Math (2(1[67]|97)|425)|Stats 426/gi"> Advanced Coursework: Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.</span>
+*Completed Coursework:* Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.
 
-### New Trier High School
-- National Merit Scholar
-{{% /div %}}
+*Upcoming Coursework:* Honors Analysis, Combinatorics and Graph Theory, Web Systems, Algorithms.
 
-{{% div class="resume-flex-item" id="projects" %}}
+## Experience
+### Stripe {{< floatright "May 2021 &ndash; Present" >}}
+Software Engineering Intern, Money Movement Policy Team
+- Currently designing and building an interactive Java tool to backtest and analyze rules which restrict and transform money movements. Wrote and shared research and design proposal documents. Tool will be used to develop and validate changes to complex, mission critical codebase.
+
+### Apple {{< floatright "May 2020 &ndash; August 2020" >}}
+Software Engineering Intern, Embedded Field Diagnostics Team
+- Rewrote iOS app used by hardware and manufacturing teams to configure and run device diagnostic programs. Conducted research into use cases and implemented new features to improve usability and enable multi-device workflows.
+- Presented project to other teams and organization leaders. Wrote user and maintenance documentation to support long-term usage.
+
 ## Projects
-***
-### Clippy {{< floatright "December 2020 &ndash; January 2021" >}}
-Clippy is a tool for transferring files between computers by temporarily storing them online.
-
-- Collaborated with a friend to build a server, client library and command line interface in Go
-- Worked on features including rate-limiting, directory upload and mnemomic creator
-
-{{% div class="link-row" %}}
-[github](https://github.com/evanweissburg/clippy)
-{{% /div %}}
+### Clippy {{< floatright "December 2021 &ndash; January 2021" >}}
+Clippy is a tool for transferring files between computers.
+- Collaborated with a friend to architect and build a server, client library, and command line interface in Go.
+- Planned and developed features including rate-limiting, directory upload, and mnemonic creation.
 
 ### Personal Website {{< floatright "June 2020 &ndash; Present" >}}
-- Created responsive website to showcase my resume and book reviews
-- Set up automated compilation and deployment with Hugo and Netlify
-
-{{% div class="link-row" %}}
-[github](https://github.com/mbickers/personal-site)
-{{% /div %}}
+- Designed responsive website to showcase resume and book reviews.
+- Investigated site generation and hosting tools. Set up automated compilation and deployment with Hugo and Netlify.
 
 ### Tallybook {{< floatright "November 2019 &ndash; May 2020" >}}
-Tallybook is an iOS app to keep track of daily tasks.
+- Developed an iOS app to track tasks and habits using SwiftUI and UIKit. App allowed users to quickly update progress, add different types of items to track, and view and edit historical data.
 
-- Developed in Swift with SwiftUI and UIKit
+## Skills
+*Languages:* Python, C++, Swift, Objective-C, Bash, Java, LaTeX.
 
-{{% div class="link-row" %}}
-[github](https://github.com/mbickers/tallybook)
-{{% /div %}}
-
-{{% /div %}}
-
-{{% div class="resume-flex-item" id="skills-interests" %}}
-## Skills and Interests
-***
-**Languages:** Python, C++, Swift, Objective-C, Bash, Java
-
-**Technologies:** Git, LaTeX, HTML5
-
-**Platforms:** iOS, macOS, Linux
-
-I love reading, and I publish reviews of math and computer science books on my website.
+*Technologies:* gRPC/Protobuf, Bazel, Make, Git.
 {{% /div %}}

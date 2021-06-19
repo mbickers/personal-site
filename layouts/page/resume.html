@@ -11,30 +11,13 @@
 </style>
 
 <style>
-{{ readFile "static/styles/index.css" | safeCSS }}
-</style>
-
-<style>
 {{ readFile "assets/resume.css" | safeCSS }}
 </style>
 
     </head>
     <body>
-        <header>
-            <h1>
-                <a href="https://bickers.dev/">Max Bickers</a>
-            </h1>
-            <hr>
-        </header>
-
-        {{ with .GetPage "welcome_resume" }}
+        {{ with .GetPage "resume" }}
         {{ .Content }}
         {{ end }}
-
-        <div id="resume-flex-grid">
-            {{ with .GetPage "resume" }}
-            {{ .Content }}
-            {{ end }}
-        </div>
     </body>
 </html>
