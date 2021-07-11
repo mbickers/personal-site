@@ -18,7 +18,7 @@ I'm a junior at the University of Michigan studying computer science and math. M
 
 {{% div class="resume-body" %}}
 ## Education
-### University of Michigan {{< floatright "August 2019 &ndash; Present" >}}
+### University of Michigan - College of Engineering {{< floatright "August 2019 &ndash; Present" >}}
 BSE Computer Science, Mathematics Minor; 3.93 GPA. Expected graduation May 2023.
 
 *Completed Coursework:* Machine Learning, Software Engineering, Operating Systems, Introduction to Theoretical Statistics, Linear Algebra, Introduction to Analysis.
@@ -28,7 +28,7 @@ BSE Computer Science, Mathematics Minor; 3.93 GPA. Expected graduation May 2023.
 ## Experience
 ### Stripe {{< floatright "May 2021 &ndash; Present" >}}
 Software Engineering Intern, Money Movement Policy Team
-- Currently designing and building an interactive Java tool to backtest and analyze rules which restrict and transform money movements. Wrote and shared research and design proposal documents. Tool will be used to develop and validate changes to complex, mission critical codebase.
+- Designing and building an interactive Java tool to backtest and analyze rules which restrict and transform money movements. Wrote and shared research and design proposal documents. Tool will be used to develop and validate changes to complex, mission critical codebase.
 
 ### Apple {{< floatright "May 2020 &ndash; August 2020" >}}
 Software Engineering Intern, Embedded Field Diagnostics Team
